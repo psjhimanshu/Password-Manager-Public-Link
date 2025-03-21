@@ -1,5 +1,7 @@
 # Password-Manager-Public-Link
-
+<div class="about-image">
+                    <img src="playstore.png" alt="Himanshu Saini">
+                </div>
 <div class="project-info">
                         <h3>Password Manager Application</h3>
                         <p>Developed a secure and user-friendly password management application using Flutter. The app is designed to store, encrypt, and manage passwords.</p>
